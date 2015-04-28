@@ -1,0 +1,20 @@
+thead{
+	background-color:white;
+	z-index:10;
+}
+/*td,th{
+	-webkit-transform:translate3d(0px,0px,0px);
+	z-index:1;
+}*/
+/*thead td, thead th{
+	-webkit-transform:translate3d(0px,0px,100px);
+	z-index:10;
+}*/
+
+tr > :first-child{
+	background-color:tan;
+}
+
+thead th{
+	z-index:100;
+}
